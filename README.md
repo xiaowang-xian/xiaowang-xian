@@ -1,5 +1,5 @@
 👨‍🎓 计算机专业在读学生 | 主攻云原生 + AI Agent 方向实践  
-💻 核心技术栈：Golang 1.24、Kubernetes 1.32、Ollama（Qwen 2.5-7B）、Prometheus、MySQL、MCP协议、Argo CD、OpenEBS、SSE/JSON-RPC 2.0  
+💻 核心技术栈：Golang 1.24、Kubernetes 1.32、Ollama（Qwen 2.5-7B）、Prometheus、MySQL、Argo CD、OpenEBS、SSE/JSON-RPC 2.0  
 
 ### 实践项目
 #### 🛠️ K8s SRE 智能运维助手
